@@ -1,0 +1,31 @@
+{
+	"name":"addcss",
+	"fullName":"Add CSS",
+	"version":"0.0.1",
+	"keywords": [
+       "css",
+       "customization",
+       "layout",
+       "style"
+   ],
+   "description":"Add your own CSS",
+   "joshfire":{
+		"images":{
+ 	    	
+ 	  	},
+   		"hooks":["startfile"],
+   		"options":{
+   			"form":[{
+   				"key":"css",
+   				"type":"textarea"
+   			}],
+			"schema":{
+				"css":{
+					"type":"string",
+					"title":"CSS",
+					"description":"This will be appended at the end of the body inside &lt;style&gt; tags."
+				}
+			}
+		}
+   }
+}
