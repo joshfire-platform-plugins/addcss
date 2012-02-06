@@ -23,7 +23,7 @@
 				"css":{
 					"type":"string",
 					"title":"CSS",
-					"description":"This will be appended at the end of the body inside &lt;style&gt; tags."
+					"description":"This will be inserted at the end of the head inside &lt;style&gt; tags."
 				}
 			}
 		}
