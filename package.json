@@ -18,7 +18,8 @@
    		"options":{
    			"form":[{
    				"key":"css",
-   				"type":"textarea"
+   				"type" : "ace",
+            			"aceMode" : "css"
    			}],
 			"schema":{
 				"css":{
