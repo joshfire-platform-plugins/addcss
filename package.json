@@ -25,6 +25,7 @@
 				"css":{
 					"type":"string",
 					"title":"CSS",
+					"required":true,
 					"description":"This will be inserted at the end of the head inside &lt;style&gt; tags."
 				}
 			}
