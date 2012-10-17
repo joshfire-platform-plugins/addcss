@@ -8,7 +8,7 @@
        "layout",
        "style"
    ],
-   "description":"Add your own CSS",
+   "description": "Define custom CSS styles to override or extend base template styles.",
    "joshfire":{
     "images":{
         "small":"marketing/image-small.png",
